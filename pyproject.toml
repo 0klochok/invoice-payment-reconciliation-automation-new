@@ -1,5 +1,5 @@
 [project]
-name = "invoice-payment-reconciliation-automation-new"
+name = "invoice-payment-reconciliation-automation"
 version = "0.1.0"
 description = "CLI-first invoice and payment reconciliation automation demo."
 readme = "README.md"

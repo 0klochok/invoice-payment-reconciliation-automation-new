@@ -6,7 +6,7 @@
 |---|---|
 | Last updated | 2026-05-31 |
 | Status | Active |
-| Project | invoice-payment-reconciliation-automation-new |
+| Project | invoice-payment-reconciliation-automation |
 | Environment | Windows 11, PowerShell, uv, Python 3.12+ |
 
 ## Prerequisites
@@ -213,4 +213,4 @@ git diff -- .
 | `reconcile` is not found | Environment is not synced | Run `uv sync --locked --dev` from the repository root |
 | `reconcile report` returns import errors | Input rows are invalid | Use the synthetic samples or fix the demo input |
 | Ruff format check fails | A Python file needs formatting | Run `uv run ruff format .`, then rerun gates |
-| Tests fail | Behavior or environment issue | Stop, inspect the failure, update `STATE.md` |
+| Tests fail | Behavior or environment issue | Stop, inspect the failure, and record the unresolved risk in validation notes |

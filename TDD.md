@@ -6,7 +6,7 @@
 |---|---|
 | Last updated | 2026-05-31 |
 | Status | Active |
-| Applies to | invoice-payment-reconciliation-automation-new |
+| Applies to | invoice-payment-reconciliation-automation |
 
 ## Testing Policy
 

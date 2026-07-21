@@ -6,7 +6,7 @@
 |---|---|
 | Last updated | 2026-05-31 |
 | Status | Active |
-| Project | invoice-payment-reconciliation-automation-new |
+| Project | invoice-payment-reconciliation-automation |
 | Project type | Portfolio/demo automation |
 | Primary users | Accounting and operations teams |
 

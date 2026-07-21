@@ -30,7 +30,7 @@ wheels = [
 ]
 
 [[package]]
-name = "invoice-payment-reconciliation-automation-new"
+name = "invoice-payment-reconciliation-automation"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
